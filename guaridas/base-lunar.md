@@ -13,6 +13,12 @@ Base secundaria de la Legión. Construida por Brainiac usando nanotecnología y 
 
 Invisible desde la Tierra (cara oculta). Green Lantern podría detectarla si patrullara esta zona, pero según Mystique, su ruta habitual pasa a 200,000 km de distancia.
 
+
+## Coordenadas 
+
+- Latitud: 0.674º
+- Longitud: 23.473º E
+
 ## Instalaciones
 
 - Laboratorio de clonación (preparándose para el Proyecto Krypton 3.0)
@@ -21,6 +27,9 @@ Invisible desde la Tierra (cara oculta). Green Lantern podría detectarla si pat
 - Invernadero hidropónico (suministro de alimentos limitado)
 - Dormitorios para 12 personas
 - Plataforma de lanzamiento (orientada al espacio profundo)
+
+
+
 
 ## Problemas actuales
 
