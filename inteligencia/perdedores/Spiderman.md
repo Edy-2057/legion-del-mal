@@ -18,3 +18,9 @@ Spiderman es
 ## Debilidades 
 
 - Simbionte 
+
+## Poderes
+
+- Trepar paredes
+- Telararaña 
+- Super fuerza
