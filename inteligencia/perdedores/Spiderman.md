@@ -24,3 +24,9 @@ Spiderman es
 - Trepar paredes
 - Telararaña 
 - Super fuerza
+
+## Peliculas 
+
+- Spiderman no way home
+- Spiderman 2
+- Spiderman 3 
