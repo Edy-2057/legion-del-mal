@@ -10,3 +10,11 @@ Spiderman es
 - Doctor Octuopus
 - Green Goblin 
 
+## Conocidos   
+
+- Mary Jane    
+- Harry Watson 
+
+## Debilidades 
+
+- Simbionte 
